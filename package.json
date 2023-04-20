@@ -1,6 +1,6 @@
 {
-  "name": "@hahaym6164/burger-animated-icon",
-  "version": "1.0.0",
+  "name": "burger-animated-icon",
+  "version": "1.1.0",
   "description": "provide burger icon with 12 animations",
   "scripts": {
     "rollup": "rollup -c"
@@ -10,8 +10,8 @@
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.0.6",
     "@rollup/plugin-typescript": "^8.3.3",
-    "@types/react": "^17.0.34",
-    "react": "^17.0.2",
+    "@types/react": "^18.0.27",
+    "react": "^18.2.0",
     "rollup": "^2.60.0",
     "rollup-plugin-dts": "^4.0.1",
     "rollup-plugin-postcss": "^4.0.2",
