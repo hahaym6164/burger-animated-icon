@@ -19,3 +19,5 @@ General use example
  **'color'** is controlling the line color of burgers.
 
  **'size'** is the size of burgers. It only works with burgers-6 right now. if you are using other burgers besides 6, don't use put anything in 'size' or it breaks the animation.
+
+Now only support Typescript/React environment. Version: "react": "^18.2.0"
