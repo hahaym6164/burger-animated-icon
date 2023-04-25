@@ -11,7 +11,6 @@ interface BurgerIconProps extends React.HTMLAttributes<HTMLDivElement> {
 
 function HamburgerIcon(props: BurgerIconProps) {
   const { num, classes, color = "white" } = props;
-  console.log(props, "burger props");
 
   const size: Size = props.size ?? "big";
   const lineSize = {
