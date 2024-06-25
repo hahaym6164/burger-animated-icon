@@ -1,6 +1,6 @@
 {
   "name": "@hahaym6164/burger-animated-icon",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "provide burger icon with 12 animations",
   "scripts": {
     "rollup": "rollup -c"
